@@ -1,0 +1,18 @@
+.main-nav {
+  background-color: #ffc6ac;
+  padding: 2rem;
+
+  ul {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+  li {
+    margin: 0 2rem;
+  }
+
+  li:hover {
+    opacity: 0.5;
+  }
+}
